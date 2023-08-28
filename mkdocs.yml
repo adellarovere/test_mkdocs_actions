@@ -1,0 +1,8 @@
+site_name: TEST MKDOCS
+theme:
+#  name: gitbook
+#  name: bootstrap4
+  name: readthedocs
+#  name: ivory
+
+#docs_dir: Documentation
